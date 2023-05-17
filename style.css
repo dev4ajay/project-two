@@ -1,0 +1,20 @@
+.top-1 h1{
+    font-family: 'Poppins', sans-serif;
+font-weight: 500;
+}
+.top{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+
+}
+
+
+
+.carousel .carousel-item {
+    transition-duration: 3s;
+}
+/* .a btn-top{
+padding-right: 2rem;
+box-sizing: border-box;
+
+} */
